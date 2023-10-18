@@ -1,3 +1,4 @@
+#comment
 friends = ["jim","carry","singh","harii"]
 lucky_numbers=[4 ,69,69,69,69]
 print(friends[1:3])
