@@ -5,7 +5,7 @@ character_name="arceuzzizter"
 print(character_age)
 print(character_name)
 is_male = False
-phrase="no onee cares"
+phrase="no one cares"
 print(phrase.upper().isupper())
 print(len(phrase))
 print(phrase[2])
