@@ -14,3 +14,4 @@ friends.pop()
 print(friends)
 friends.clear()
 print(friends)
+#commit
